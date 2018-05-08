@@ -1,8 +1,7 @@
 {{ define "response" }}
 [
     {{ range $index, $element := .Data.Pages }}
-    {{ $element}}
-    {{ if $index }}, {{ end }}{{ .Render "item" }}
+    {{ if $index }}, {{ end }}{{ .Render "item"}}
     {{ end }}
 ]
 {{ end }}

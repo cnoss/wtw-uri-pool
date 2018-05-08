@@ -5,6 +5,5 @@ theme = "ananke"
 [taxonomies]
   tag = "tags"
 [outputs]
-  page = ["html", "json"]
-  section = ["html", "json"]
-  home = ["json"]
+  section = ["JSON"]
+  page = ["JSON"]
