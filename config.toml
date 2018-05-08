@@ -4,3 +4,7 @@ title = "My New Hugo Site"
 theme = "ananke"
 [taxonomies]
   tag = "tags"
+[outputs]
+  page = ["html", "json"]
+  section = ["html", "json"]
+  home = ["json"]
