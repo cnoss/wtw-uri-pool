@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on My New Hugo Site</title>
+    <link>http://example.org/tags/tools/</link>
+    <description>Recent content in Tools on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adobe Color CC</title>
+      <link>http://example.org/posts/adobe-color-cc/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/adobe-color-cc/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atom Editor</title>
+      <link>http://example.org/posts/editor-atom/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/editor-atom/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brackets Editor</title>
+      <link>http://example.org/posts/editor-brackets/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/editor-brackets/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS Tricks</title>
+      <link>http://example.org/posts/css-tricks/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/css-tricks/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canvasflip</title>
+      <link>http://example.org/posts/canvasflip/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/canvasflip/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codepen</title>
+      <link>http://example.org/posts/playground-codepen/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/playground-codepen/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framer</title>
+      <link>http://example.org/posts/framer/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/framer/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Autodraw</title>
+      <link>http://example.org/posts/autodraw/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/autodraw/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Fonts</title>
+      <link>http://example.org/posts/google-fonts/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/google-fonts/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to center in CSS</title>
+      <link>http://example.org/posts/how-to-center-in-css/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/how-to-center-in-css/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paletton</title>
+      <link>http://example.org/posts/paletton/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/paletton/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The New Generation of Prototyping Tools</title>
+      <link>http://example.org/posts/new-generation-prototyping/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/new-generation-prototyping/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Genius</title>
+      <link>http://example.org/posts/type-genuis/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/type-genuis/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code Editor</title>
+      <link>http://example.org/posts/editor-code/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/editor-code/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W3C - HTML5 Spezifikation</title>
+      <link>http://example.org/posts/caniuse/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/caniuse/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jsfiddle</title>
+      <link>http://example.org/posts/playground-jsfiddle/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/playground-jsfiddle/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

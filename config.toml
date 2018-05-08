@@ -7,3 +7,6 @@ theme = "ananke"
 [outputs]
   section = ["JSON"]
   page = ["JSON"]
+  home = ["JSON"]
+
+publishDir = "docs"

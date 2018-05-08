@@ -1,0 +1,485 @@
+
+[
+    
+    {
+  "name" : "12 Factors In Selecting A Mobile Prototyping Tool",
+  "src" : "https://www.smashingmagazine.com/2016/04/factors-selecting-mobile-prototyping-tool/",
+  "text" : "Artikel zur sinnvollen Auswahl von Prototyping Tools.",
+  "tags" : ["Basiswissen", "Guides"]
+}
+
+    
+    , {
+  "name" : "A Simple Web Developer’s Guide To Color",
+  "src" : "https://www.smashingmagazine.com/2016/04/web-developer-guide-color/",
+  "text" : "Sehr kompakter Guide, mit dem man aber sehr weit kommt. Deckt ab, wie ich zu meinen Hauptfarben und den passenden Grautönen komme.",
+  "tags" : ["Farben", "Guides"]
+}
+
+    
+    , {
+  "name" : "Adobe Color CC",
+  "src" : "https://color.adobe.com/create/color-wheel/",
+  "text" : "Kostenloses Colorwheel von Adobe, das im Browser läuft. Hilft, passende Farben zu einer Basisfarbe zu finden.",
+  "tags" : ["Farben", "Tools"]
+}
+
+    
+    , {
+  "name" : "An Alphabetical Adventure",
+  "src" : "http://www.aisforalbert.com/",
+  "text" : "Eine spielerische, grafische Darstellung des Alphabets.",
+  "tags" : ["Typographie", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Atom Editor",
+  "src" : "https://atom.io/",
+  "text" : "Ein moderner, quelloffener Code-Editor von GitHub.",
+  "tags" : ["Tools", "Editor"]
+}
+
+    
+    , {
+  "name" : "Behance",
+  "src" : "https://www.behance.net/search?field=102&content=projects&sort=appreciations&time=week",
+  "text" : "Showcase, ähnlich wie Dribbble, aber zeigt eher ganze Projekte. AUch hier gilt die Warnung von Dribbble.",
+  "tags" : ["Handwerk", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Brackets Editor",
+  "src" : "http://brackets.io/",
+  "text" : "Ein moderner, quelloffener Code-Editor, der Webdesign versteht.",
+  "tags" : ["Tools", "Editor"]
+}
+
+    
+    , {
+  "name" : "Build An HTML5 Website",
+  "src" : "https://www.youtube.com/watch?v=Wm6CUkswsNw",
+  "text" : "Gute Videodemonstration zur Erstellung einer modernen HTML5 Webseite",
+  "tags" : ["Videotutorials", "HTML", "CSS", "Responsive"]
+}
+
+    
+    , {
+  "name" : "CSS Tricks",
+  "src" : "https://css-tricks.com/snippets/",
+  "text" : "Viele gute Tutorials und Snippets rund um das Thema CSS.",
+  "tags" : ["Ressourcen", "Tools", "CSS"]
+}
+
+    
+    , {
+  "name" : "Canvasflip",
+  "src" : "https://canvasflip.com/",
+  "text" : "Tool zur UX Analyse.",
+  "tags" : ["Tools", "UX"]
+}
+
+    
+    , {
+  "name" : "Codebeispiele in Codepen",
+  "src" : "https://codepen.io/collection/DJGrme/",
+  "text" : "Beispiele von uns erstellt.",
+  "tags" : ["Ressourcen", "Inspirationen", "HTML"]
+}
+
+    
+    , {
+  "name" : "Codepen",
+  "src" : "https://codepen.io/",
+  "text" : "Plattform zum vorführen von Code. (Gut für Support über Foren/Communities)",
+  "tags" : ["Tools", "Codeplayground"]
+}
+
+    
+    , {
+  "name" : "Colourlovers Palettes",
+  "src" : "http://www.colourlovers.com/palettes",
+  "text" : "Vorgefertigte Farbpaletten zur Inspiration.",
+  "tags" : ["Farben", "Inspiration"]
+}
+
+    
+    , {
+  "name" : "Designer News",
+  "src" : "https://www.designernews.co/",
+  "text" : "An Hacker News angelehntes Board, das sich um Design-Themen dreht.",
+  "tags" : ["Vertiefungen"]
+}
+
+    
+    , {
+  "name" : "Designinspiration",
+  "src" : "http://designspiration.net/",
+  "text" : "Wild gemischter Showcase.",
+  "tags" : ["Handwerk", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Distill",
+  "src" : "http://www.wedistill.io/",
+  "text" : "Kostenlose HD-Videos (z.B. für den Einsatz im Hintergrund).",
+  "tags" : ["Videos", "Ressourcen", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Dribbble",
+  "src" : "https://dribbble.com/",
+  "text" : "Eine der größten Seiten zum Zeigen von Designs, aber mit Vorsicht zu genießen, da viele Artefakte nicht auf Basis von Anforderungen aus dem echten leben gebaut wurden.",
+  "tags" : ["Handwerk", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Flaticon",
+  "src" : "http://www.flaticon.com/",
+  "text" : "Umfassende Sammlung von kostenlosen IconPacks.",
+  "tags" : ["Icons", "Ressourcen", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Framer",
+  "src" : "https://framerjs.com/",
+  "text" : "Prototyping Tool für mobile Anwendungen.",
+  "tags" : ["Tools"]
+}
+
+    
+    , {
+  "name" : "GE’s Predix Design System",
+  "src" : "https://medium.com/ge-design/ges-predix-design-system-8236d47b0891",
+  "text" : "Styleguide von General Electric.",
+  "tags" : ["Guides", "Styleguide", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Git & Github Crash Course",
+  "src" : "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+  "text" : "Basics zu Git & GitHub",
+  "tags" : ["Videotutorials", "Git"]
+}
+
+    
+    , {
+  "name" : "GoodUI.org",
+  "src" : "http://www.goodui.org/",
+  "text" : "An sich eher darauf ausgerichtet, Online eine gute Conversion zu erreichen, aber einige Punkte funktionieren auch ganz gut, wenn man einfach etwas bauen möchte. Unsere Empfehlung sind Idee 3, Idee 6 und Idee 13.",
+  "tags" : ["Generell", "Guides"]
+}
+
+    
+    , {
+  "name" : "Google Autodraw",
+  "src" : "http://www.autodraw.com/",
+  "text" : "Schönes experimentelles Zeichentool von Google.",
+  "tags" : ["Tools", "Icons", "Zeichnen"]
+}
+
+    
+    , {
+  "name" : "Google Fonts",
+  "src" : "https://www.google.com/fonts",
+  "text" : "Umfassende Sammlung von Fonts, eigentlich für das Benutzen im Web gedacht, können aber auch alle herunter geladen werden.",
+  "tags" : ["Typographie", "Tools", "Ressourcen"]
+}
+
+    
+    , {
+  "name" : "HTML Elemente alphabetisch",
+  "src" : "https://www.w3schools.com/tags/default.asp",
+  "text" : "HTML -Elemente aufgelistet in alphabetischer Reihenfolge",
+  "tags" : ["Ressourcen", "Generell", "HTML"]
+}
+
+    
+    , {
+  "name" : "HTML Elemente nach Kategorie",
+  "src" : "https://www.w3schools.com/tags/ref_byfunc.asp",
+  "text" : "HTML-Elemente kategorisch aufgelistet.",
+  "tags" : ["Ressourcen", "Generell", "HTML"]
+}
+
+    
+    , {
+  "name" : "HTML Tutorial bei codecademy.com",
+  "src" : "https://www.codecademy.com/learn/learn-html",
+  "text" : "Interaktives Tutorial zu HTML.",
+  "tags" : ["Training", "Guides", "HTML"]
+}
+
+    
+    , {
+  "name" : "HTML Tutorial bei w3schools.com",
+  "src" : "https://www.w3schools.com/html/default.asp",
+  "text" : "Basis Tutorial zu HTML.",
+  "tags" : ["Ressourcen", "Guides", "HTML"]
+}
+
+    
+    , {
+  "name" : "How to center in CSS",
+  "src" : "http://howtocenterincss.com",
+  "text" : "CSS-Generator zur Zentrierung von Text und Div-Elementen in Abhängigkeit von ihrer Größe",
+  "tags" : ["Layout", "Tools", "CSS"]
+}
+
+    
+    , {
+  "name" : "Informationen für Entwickler von Entwicklern.",
+  "src" : "https://developer.mozilla.org/de/",
+  "text" : "Sehr gute Tutorials rund um verschiedene Web Technologien.",
+  "tags" : ["Ressourcen", "Guides"]
+}
+
+    
+    , {
+  "name" : "IxDChecklist.com",
+  "src" : "http://ixdchecklist.com/",
+  "text" : "Ähnlich wie WebDesignerChecklist, aber mehr auf UX und Interaction Design bezogen. Auch deutlich näher am Projekt.",
+  "tags" : ["Generell", "Checklisten"]
+}
+
+    
+    , {
+  "name" : "KERNTYPE a kerning game",
+  "src" : "http://type.method.ac/",
+  "text" : "Kleines Spielchen rund um das Thema Kerning.",
+  "tags" : ["Typographie", "Game"]
+}
+
+    
+    , {
+  "name" : "Liste der HTML Attribute",
+  "src" : "https://www.w3schools.com/tags/ref_standardattributes.asp",
+  "text" : "Auflistung nutzbarer Attribute für HTML-Elemente.",
+  "tags" : ["Ressourcen", "Generell", "HTML"]
+}
+
+    
+    , {
+  "name" : "Mozilla HTML Element Referenz",
+  "src" : "https://developer.mozilla.org/de/docs/Web/HTML/Element",
+  "text" : "HTML-Elemente aufgelistet in alphabetischer Reihenfolge.",
+  "tags" : ["Ressourcen", "Generell", "HTML"]
+}
+
+    
+    , {
+  "name" : "Must-Watch CSS",
+  "src" : "https://github.com/AllThingsSmitty/must-watch-css",
+  "text" : "Sehr guter Tutorial- und Inspirationsfilme rund um CSS",
+  "tags" : ["CSS", "Tutorials", "Layout"]
+}
+
+    
+    , {
+  "name" : "Paletton",
+  "src" : "http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF",
+  "text" : "Ähnlich wie Adobe Color CC, bietet aber mehr Abstufungen innerhlab der gefundenen Farben.",
+  "tags" : ["Farben", "Tools"]
+}
+
+    
+    , {
+  "name" : "Pexels",
+  "src" : "https://www.pexels.com/",
+  "text" : "Kostenlose und rechtefreie Stock-Fotos. Die Seite crawlt durch verschiedene andere Stock-Photo-Seiten und nimmt einem damit viel Arbeit ab. Die Lizenz erlaubt es einem, (fast) alles mit den Bildern zu machen, ohne die Quelle nennen zu müssen.",
+  "tags" : ["Bilder", "Ressourcen", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Pixel Perfect Precision",
+  "src" : "http://ustwo.com/ppp/",
+  "text" : "Ziemlich cooles Handbook, geht in der jetzt 3. Version noch ein Stück weiter von Workflows innerhalb von gestaltungsprogrammen weg und weiter hin zu allgemeinen Tipps.",
+  "tags" : ["Handwerk", "Guides"]
+}
+
+    
+    , {
+  "name" : "Projekttemplate für WBA1",
+  "src" : "https://th-koeln.github.io/mi-bachelor-wba1/download/project-template.zip",
+  "text" : "Eine kleine Blaupause für Projekte. Enthalten sind eine sinnvolle Verzeichnisstruktur, CSS Strukturen und eine rudimentäre HTML Struktur.",
+  "tags" : ["Helper"]
+}
+
+    
+    , {
+  "name" : "Prototypr - Blog",
+  "src" : "https://blog.prototypr.io/",
+  "text" : "Blog rund um die Themen Design, UX, Front-End und Prototyping(-Tools).",
+  "tags" : ["Vertiefungen", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "SVG Workflow",
+  "src" : "http://danielmall.com/articles/svg-workflow-for-designers/",
+  "text" : "Ziemlich tiefer Guide darüber, wie man vernünftige SVGs erstellt und exportiert.",
+  "tags" : ["Handwerk", "Guides", "Grafik", "SVG"]
+}
+
+    
+    , {
+  "name" : "Shape Type – a letter shaping game",
+  "src" : "http://shape.method.ac/",
+  "text" : "Kleines Spielchen rund um das Thema Shaping von Buchstaben.",
+  "tags" : ["Typographie", "Game"]
+}
+
+    
+    , {
+  "name" : "Smashing Magazine",
+  "src" : "https://www.smashingmagazine.com/",
+  "text" : "Blog um die Themen Design und Web, aber auch andere Meta-Themen.",
+  "tags" : ["Vertiefungen", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Space in Design Systems",
+  "src" : "https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62",
+  "text" : "Sehr guter Guide über systematische Verwendung von Weißräumen via CSS.",
+  "tags" : ["CSS", "Guides", "Layout"]
+}
+
+    
+    , {
+  "name" : "Style Guides by Pro Designers",
+  "src" : "https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07",
+  "text" : "Ein paar sehr schöne, handverlesene Styleguides.",
+  "tags" : ["Inspirationen", "Styleguide"]
+}
+
+    
+    , {
+  "name" : "The Laws Of Simplicity",
+  "src" : "https://medium.theuxblog.com/the-laws-of-simplicity-ed6fa92c7bc6",
+  "text" : "Wie können wir Vereinfachung erreichen? Dabei helfen John Maedas "10 Laws Of Simplicity", die hier erläutert werden.",
+  "tags" : ["Konzepte"]
+}
+
+    
+    , {
+  "name" : "The New Generation of Prototyping Tools",
+  "src" : "https://medium.com/@kunalslab/the-new-generation-of-prototyping-tools-part-1-2-c01105310b6b",
+  "text" : "Kleiner Artikel, der eine Reihe von Prototyping Tools vorstellt.",
+  "tags" : ["Tools"]
+}
+
+    
+    , {
+  "name" : "Tutorialserie zu Webdevelopment für Beginner",
+  "src" : "https://www.youtube.com/watch?v=3JluqTojuME",
+  "text" : "Guter Einstieg in die Webentwicklung",
+  "tags" : ["Videotutorials", "HTML", "CSS", "JavaScript"]
+}
+
+    
+    , {
+  "name" : "Twitter Liste mit Designern",
+  "src" : "https://twitter.com/FreelanceFolder/lists/designers",
+  "text" : "Erklärt sich wohl selbst.",
+  "tags" : ["Vertiefungen"]
+}
+
+    
+    , {
+  "name" : "Type Genius",
+  "src" : "http://www.typegenius.com/",
+  "text" : "Tool, um passende Fonts zu einer schon ausgewählten zu finden.",
+  "tags" : ["Typographie", "Tools"]
+}
+
+    
+    , {
+  "name" : "Typogui.de",
+  "src" : "http://typogui.de/",
+  "text" : "Guide to Master Every Day’s Typographic Adventures - sehr kompakter Guide über Typographie. Geht nach den ersten vier Punkten etwas auf Distanz, bis dahin sind aber alle Punkte ganz gut geeignet, um sie Checklisten-Mäßig abzuarbeiten.",
+  "tags" : ["Typographie", "Guides"]
+}
+
+    
+    , {
+  "name" : "Video2Brain",
+  "src" : "https://www.lynda.com/de/Graphic-Design-tutorials/Grafikdesign-lernen-Layout/593921-2.html",
+  "text" : "Für Studierende der TH Köln sind Video2Brain Videos kostenfrei nutzbar. Da sind auch einige interessante und brauchbare Videos dabei, z.B. zum Thema Layout.",
+  "tags" : ["Trainings", "Generell", "Inspirationen"]
+}
+
+    
+    , {
+  "name" : "Visual Studio Code Editor",
+  "src" : "https://code.visualstudio.com/",
+  "text" : "Ein moderner, quelloffener Code-Editor von Microsoft.",
+  "tags" : ["Tools", "Editor"]
+}
+
+    
+    , {
+  "name" : "Visual Studio Code Editor",
+  "src" : "https://www.freecodecamp.org/map",
+  "text" : "Online Challenges für HTML, CSS und Co. Sehr gut zum Üben und Wiederholen.",
+  "tags" : ["Training"]
+}
+
+    
+    , {
+  "name" : "W3C - HTML5 Spezifikation",
+  "src" : "https://caniuse.com/",
+  "text" : "Browser Support Datenbank. Zeigt auf welche aktuellen Technologien/Standards wo zur Verfügung stehen.",
+  "tags" : ["Ressourcen", "Tools", "Generell"]
+}
+
+    
+    , {
+  "name" : "W3C - HTML5 Spezifikation",
+  "src" : "https://www.w3.org/TR/html5/",
+  "text" : "Spezifikationen zu den neuesten HTML5 Standards.",
+  "tags" : ["Ressourcen", "Guides", "Generell", "Vertiefungen"]
+}
+
+    
+    , {
+  "name" : "Web Design Styleguides",
+  "src" : "https://designschool.canva.com/blog/apple-google-starbucks-inside-the-web-design-style-guides-of-10-famous-companies/",
+  "text" : "Liste mit verschiedenen Web Design Styleguides.",
+  "tags" : ["Inspirationen", "Styleguide"]
+}
+
+    
+    , {
+  "name" : "WebDesignersChecklist.com",
+  "src" : "http://webdesignerschecklist.com/",
+  "text" : "Kleine Checkliste an der man sich langhangeln kann, aber natürlich auf Designer ausgelegt. Vieles bezieht sich auf den Workflow und die Organisation von Designern, aber ein paar (wenige) Sachen sind auch generell auf das Projekt anwendbar. (Shapes Aren't Stretched & Font-sizes smaller than 14-16px render well and are hinted properly for the Web)",
+  "tags" : ["Generell", "Checklisten"]
+}
+
+    
+    , {
+  "name" : "jsfiddle",
+  "src" : "https://jsfiddle.net/",
+  "text" : "Plattform zum vorführen von Code. (Gut für Support über Foren/Communities)",
+  "tags" : ["Tools", "Codeplayground"]
+}
+
+    
+    , {
+  "name" : "w3c",
+  "src" : "https://www.w3.org/",
+  "text" : "Internationaler Verbund zur Standardisierung von Webtechniken.",
+  "tags" : ["Ressourcen", "Guides", "Generell", "Vertiefungen"]
+}
+
+    
+]
+

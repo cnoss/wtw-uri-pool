@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspirationen on My New Hugo Site</title>
+    <link>http://example.org/tags/inspirationen/</link>
+    <description>Recent content in Inspirationen on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/inspirationen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Alphabetical Adventure</title>
+      <link>http://example.org/posts/aisforalbert/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/aisforalbert/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behance</title>
+      <link>http://example.org/posts/behance/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/behance/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebeispiele in Codepen</title>
+      <link>http://example.org/posts/html-codebeispiele/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/html-codebeispiele/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designinspiration</title>
+      <link>http://example.org/posts/designinspiration/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/designinspiration/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distill</title>
+      <link>http://example.org/posts/distill/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/distill/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dribbble</title>
+      <link>http://example.org/posts/dribbble/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dribbble/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flaticon</title>
+      <link>http://example.org/posts/flaticon/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/flaticon/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GE’s Predix Design System</title>
+      <link>http://example.org/posts/ge-stypeguide/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ge-stypeguide/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pexels</title>
+      <link>http://example.org/posts/pexels/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pexels/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototypr - Blog</title>
+      <link>http://example.org/posts/prototypr-blog/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prototypr-blog/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smashing Magazine</title>
+      <link>http://example.org/posts/smashing-magazine/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/smashing-magazine/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style Guides by Pro Designers</title>
+      <link>http://example.org/posts/style-guides-by-pro-designers/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/style-guides-by-pro-designers/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video2Brain</title>
+      <link>http://example.org/posts/video2brain/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/video2brain/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design Styleguides</title>
+      <link>http://example.org/posts/web-design-styleguides/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/web-design-styleguides/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

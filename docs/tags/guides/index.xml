@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on My New Hugo Site</title>
+    <link>http://example.org/tags/guides/</link>
+    <description>Recent content in Guides on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>12 Factors In Selecting A Mobile Prototyping Tool</title>
+      <link>http://example.org/posts/factors-selecting-mobile-prototyping-tool/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/factors-selecting-mobile-prototyping-tool/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Web Developer’s Guide To Color</title>
+      <link>http://example.org/posts/webdeveloper-guide-color/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/webdeveloper-guide-color/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GE’s Predix Design System</title>
+      <link>http://example.org/posts/ge-stypeguide/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ge-stypeguide/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoodUI.org</title>
+      <link>http://example.org/posts/goodui-org/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goodui-org/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML Tutorial bei codecademy.com</title>
+      <link>http://example.org/posts/html-codecademy/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/html-codecademy/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML Tutorial bei w3schools.com</title>
+      <link>http://example.org/posts/html-w3schools/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/html-w3schools/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informationen für Entwickler von Entwicklern.</title>
+      <link>http://example.org/posts/dev-mozilla/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dev-mozilla/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixel Perfect Precision</title>
+      <link>http://example.org/posts/pixel-perfect-precision/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pixel-perfect-precision/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVG Workflow</title>
+      <link>http://example.org/posts/svg-workflow/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/svg-workflow/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space in Design Systems</title>
+      <link>http://example.org/posts/css-concept-space-in-design/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/css-concept-space-in-design/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typogui.de</title>
+      <link>http://example.org/posts/typoguide/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/typoguide/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W3C - HTML5 Spezifikation</title>
+      <link>http://example.org/posts/html5-w3c/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/html5-w3c/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>w3c</title>
+      <link>http://example.org/posts/w3c/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/w3c/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

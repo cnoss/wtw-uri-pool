@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basiswissen</title>
+      <link>http://example.org/tags/basiswissen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/basiswissen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilder</title>
+      <link>http://example.org/tags/bilder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/bilder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checklisten</title>
+      <link>http://example.org/tags/checklisten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/checklisten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codeplayground</title>
+      <link>http://example.org/tags/codeplayground/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/codeplayground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>http://example.org/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editor</title>
+      <link>http://example.org/tags/editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farben</title>
+      <link>http://example.org/tags/farben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/farben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>http://example.org/tags/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generell</title>
+      <link>http://example.org/tags/generell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/generell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://example.org/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grafik</title>
+      <link>http://example.org/tags/grafik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/grafik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>http://example.org/tags/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handwerk</title>
+      <link>http://example.org/tags/handwerk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/handwerk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helper</title>
+      <link>http://example.org/tags/helper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/helper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>http://example.org/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>http://example.org/tags/icons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/icons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspiration</title>
+      <link>http://example.org/tags/inspiration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspirationen</title>
+      <link>http://example.org/tags/inspirationen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/inspirationen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://example.org/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konzepte</title>
+      <link>http://example.org/tags/konzepte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/konzepte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layout</title>
+      <link>http://example.org/tags/layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/layout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive</title>
+      <link>http://example.org/tags/responsive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ressourcen</title>
+      <link>http://example.org/tags/ressourcen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/ressourcen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styleguide</title>
+      <link>http://example.org/tags/styleguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/styleguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svg</title>
+      <link>http://example.org/tags/svg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/svg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>http://example.org/tags/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>http://example.org/tags/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trainings</title>
+      <link>http://example.org/tags/trainings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/trainings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>http://example.org/tags/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typographie</title>
+      <link>http://example.org/tags/typographie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/typographie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ux</title>
+      <link>http://example.org/tags/ux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertiefungen</title>
+      <link>http://example.org/tags/vertiefungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/vertiefungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://example.org/tags/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videotutorials</title>
+      <link>http://example.org/tags/videotutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/videotutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeichnen</title>
+      <link>http://example.org/tags/zeichnen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/zeichnen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

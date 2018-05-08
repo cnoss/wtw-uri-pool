@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vertiefungen on My New Hugo Site</title>
+    <link>http://example.org/tags/vertiefungen/</link>
+    <description>Recent content in Vertiefungen on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/vertiefungen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designer News</title>
+      <link>http://example.org/posts/designer-new/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/designer-new/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototypr - Blog</title>
+      <link>http://example.org/posts/prototypr-blog/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prototypr-blog/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smashing Magazine</title>
+      <link>http://example.org/posts/smashing-magazine/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/smashing-magazine/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Liste mit Designern</title>
+      <link>http://example.org/posts/twitter-liste-mit-designern/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/twitter-liste-mit-designern/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W3C - HTML5 Spezifikation</title>
+      <link>http://example.org/posts/html5-w3c/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/html5-w3c/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>w3c</title>
+      <link>http://example.org/posts/w3c/index.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/w3c/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

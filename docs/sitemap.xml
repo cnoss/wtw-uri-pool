@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/posts/factors-selecting-mobile-prototyping-tool/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/webdeveloper-guide-color/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/adobe-color-cc/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/aisforalbert/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/editor-atom/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/basiswissen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/behance/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bilder/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/editor-brackets/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/videotutorial-build-an-html5-website/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/css-tricks/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/canvasflip/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/checklisten/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-codebeispiele/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/playground-codepen/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/codeplayground/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/colourlovers-palettes/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/css/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/designer-new/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/designinspiration/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/distill/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/dribbble/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/editor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/farben/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/flaticon/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/framer/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/ge-stypeguide/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/game/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/generell/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/git/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/videotutorial-git-crashcourse/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/goodui-org/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/autodraw/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/google-fonts/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/grafik/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/guides/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-elemente-aplhabetisch/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-elemente-kategorisch/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-codecademy/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-w3schools/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/handwerk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/helper/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/how-to-center-in-css/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/html/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/icons/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/dev-mozilla/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/inspiration/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/inspirationen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/ixdchecklist.com/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/javascript/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/type.method.ac/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/konzepte/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/layout/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-attribute/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html-elemente-aplhabetisch-mozilla/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/css-videos/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/index.json</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/paletton/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/pexels/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/pixel-perfect-precision/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/index.json</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/projekt-template/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/prototypr-blog/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ressourcen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/svg-workflow/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/shape.method.ac/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/smashing-magazine/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/css-concept-space-in-design/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/style-guides-by-pro-designers/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/styleguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/svg/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/laws-of-simplicity/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/new-generation-prototyping/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tools/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/training/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/trainings/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tutorials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/videotutorial-webdev/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/twitter-liste-mit-designern/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/type-genuis/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/typographie/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/typoguide/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ux/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/vertiefungen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/video2brain/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/videos/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/videotutorials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/editor-code/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/freecodecamp/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/caniuse/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/html5-w3c/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/web-design-styleguides/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/webdesignchecklist/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/zeichnen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/playground-jsfiddle/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/w3c/index.json</loc>
+  </url>
+  
+</urlset>
