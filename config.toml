@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+publishDir = "docs"
 [taxonomies]
   tag = "tags"
 [outputs]
@@ -9,4 +10,4 @@ theme = "ananke"
   page = ["JSON"]
   home = ["JSON"]
 
-publishDir = "docs"
+
