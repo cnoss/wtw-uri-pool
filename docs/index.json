@@ -306,6 +306,14 @@
 
     
     , {
+  "name" : "Project Guidelines",
+  "src" : "https://github.com/elsewhencode/project-guidelines",
+  "text" : "Here's a list of guidelines that works really well with most JavaScript projects.",
+  "tags" : ["Ressourcen", "Guides", "Webdevelopment"]
+}
+
+    
+    , {
   "name" : "Projekttemplate für WBA1",
   "src" : "https://th-koeln.github.io/mi-bachelor-wba1/download/project-template.zip",
   "text" : "Eine kleine Blaupause für Projekte. Enthalten sind eine sinnvolle Verzeichnisstruktur, CSS Strukturen und eine rudimentäre HTML Struktur.",
@@ -364,7 +372,7 @@
     , {
   "name" : "The Laws Of Simplicity",
   "src" : "https://medium.theuxblog.com/the-laws-of-simplicity-ed6fa92c7bc6",
-  "text" : "Wie können wir Vereinfachung erreichen? Dabei helfen John Maedas "10 Laws Of Simplicity", die hier erläutert werden.",
+  "text" : "Wie können wir Vereinfachung erreichen? Dabei helfen John Maedas 10 Laws Of Simplicity, die hier erläutert werden.",
   "tags" : ["Konzepte"]
 }
 

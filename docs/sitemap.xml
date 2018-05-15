@@ -270,6 +270,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/posts/project-guide/index.json</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/projekt-template/index.json</loc>
   </url>
   
@@ -417,6 +421,11 @@
   
   <url>
     <loc>http://example.org/posts/webdesignchecklist/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/webdevelopment/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
